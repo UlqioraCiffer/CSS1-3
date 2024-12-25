@@ -1,0 +1,176 @@
+header h1 {
+    text-align: center;
+    font-size: 72px;
+    font-weight: 700;
+    line-height: 86.4px;
+    text-decoration-skip-ink: none;
+}
+
+header p {
+    width: 1220px;
+    height: 64px;
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 32px;
+    margin-left: 568px;
+    text-align: center;
+    color: #FF8000;
+}
+
+#Bang {
+    margin-left: 67px;
+}
+
+#Bang h3 {
+    width: 681px;
+    height: 48px;
+    gap: 0px;
+    opacity: 0px;
+    font-family: Lato;
+    font-size: 40px;
+    font-weight: 700;
+    line-height: 48px;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+    color: #D9AE00;
+}
+
+#Bang p {
+    width: 681px;
+    height: 145px;
+    font-size: 24px;
+    font-weight: 400;
+    line-height: 28.8px;
+    text-decoration-skip-ink: none;
+    color: #6D81B4;
+}
+
+#Bang img {
+    width: 676px;
+    height: 415px;
+}
+
+#Hole {
+    margin-top: 48px;
+    margin-left: 67px;
+    width: 1007px;
+    height: 717px;
+    top: 1077px;
+    left: 74px;
+    padding: 64px 0px 0px 0px;
+    gap: 30px;
+    border: 2px 0px 0px 2px;
+    opacity: 0px;
+    border-width: 2px, 0px, 0px, 2px;
+    border-style: solid;
+    border-color: #000000;
+    background-color: #FFCEBE;
+}
+
+#Hole img {
+    margin-left: 64px;
+}
+
+#Hole h3 {
+    width: 681px;
+    height: 48px;
+    color: #F44E50;
+    font-family: Lato;
+    font-size: 40px;
+    font-weight: 900;
+    line-height: 48px;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+    margin-left: 268px;
+}
+
+#Hole p {
+    width: 681px;
+    height: 72px;
+    gap: 0px;
+    opacity: 0px;
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 24px;
+    text-align: center;
+    text-decoration-skip-ink: none;
+    color: #8B2B2C;
+    margin-left: 148px;
+}
+
+#String {
+    margin-left: 67px;
+}
+
+#String h3 {
+    width: 696px;
+    height: 48px;
+    gap: 0px;
+    opacity: 0px;
+    font-family: Lato;
+    font-size: 40px;
+    font-weight: 700;
+    line-height: 48px;
+    text-align: right;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+    color: #4716E4;
+}
+
+#String #textone {
+    border: 3px;
+    border-color: rgb(231, 10, 176);
+    border-style: solid;
+    background-color: pink;
+    width: 696px;
+    height: 222px;
+    padding: 12px;
+    font-family: Lato;
+    font-size: 24px;
+    font-weight: 400;
+    line-height: 28.8px;
+    text-align: right;
+    text-decoration-skip-ink: none;
+}
+
+#String #texttwo {
+    width: 696px;
+    height: 24px;
+    gap: 0px;
+    opacity: 0px;
+    font-family: Lato;
+    font-size: 24px;
+    font-weight: 800;
+    line-height: 24px;
+    text-align: left;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+}
+
+#String #Box {
+    width: Fill 696px;
+    height: 272px;
+    gap: 16px;
+    opacity: 0px;
+    border: white;
+    width: 648px;
+}
+
+#Box ul {
+    font-family: Lato;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    text-align: left;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+    color: #C27512;
+}
+
+#String img {
+    width: 696px;
+    height: 415px;
+    gap: 0px;
+    opacity: 0px;
+    padding-top: 12px;
+}
